@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[tmc:home|Door43 (tmc)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-tmc|d43-tmc repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-tmc/archive/master.zip|d43-tmc.zip]]
+
+**Recent Changes**
+{{changes>ns = tmc}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/tmc|Ethnologue data]]
+
